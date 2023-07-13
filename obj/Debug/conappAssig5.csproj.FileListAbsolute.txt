@@ -1,0 +1,8 @@
+C:\Users\bonam\OneDrive\Desktop\Basicapp\Day4\conappAssig5\conappAssig5\bin\Debug\conappAssig5.exe.config
+C:\Users\bonam\OneDrive\Desktop\Basicapp\Day4\conappAssig5\conappAssig5\bin\Debug\conappAssig5.exe
+C:\Users\bonam\OneDrive\Desktop\Basicapp\Day4\conappAssig5\conappAssig5\bin\Debug\conappAssig5.pdb
+C:\Users\bonam\OneDrive\Desktop\Basicapp\Day4\conappAssig5\conappAssig5\obj\Debug\conappAssig5.csproj.AssemblyReference.cache
+C:\Users\bonam\OneDrive\Desktop\Basicapp\Day4\conappAssig5\conappAssig5\obj\Debug\conappAssig5.csproj.SuggestedBindingRedirects.cache
+C:\Users\bonam\OneDrive\Desktop\Basicapp\Day4\conappAssig5\conappAssig5\obj\Debug\conappAssig5.csproj.CoreCompileInputs.cache
+C:\Users\bonam\OneDrive\Desktop\Basicapp\Day4\conappAssig5\conappAssig5\obj\Debug\conappAssig5.exe
+C:\Users\bonam\OneDrive\Desktop\Basicapp\Day4\conappAssig5\conappAssig5\obj\Debug\conappAssig5.pdb
